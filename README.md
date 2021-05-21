@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on learnDjango
+- 🌱 I’m currently learning Python, Django and front-end(HTML, CSS and JS)
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/daniel-ahn-510)
+- ⚡ Fun fact: I'm also known as a skeleton and I use Arch btw
+
 <!--
 **dahn510/dahn510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
