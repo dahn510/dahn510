@@ -1,5 +1,4 @@
-### Hi there 👋
-
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 🔭 I’m currently working on learnDjango
 - 🌱 I’m currently learning Python, Django and front-end(HTML, CSS and JS)
