@@ -1,6 +1,6 @@
 ### Hi there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-![Btw, I use Arch](https://github.com/dahn510/dahn510/blob/main/media/linux-when.gif)
+![Btw, I use Arch](https://github.com/dahn510/dahn510/blob/main/media/linux-when.gif)  
 I'm an average tiling window manager and neovim enjoyer.
 
 ![](https://img.shields.io/badge/OS-ArchLinux-informational?style=for-the-badge&logo=archlinux&logoColor=white)
